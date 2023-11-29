@@ -9,36 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+Galaxy Morphology, AI for astronomy.
+
 Education
 ======
 * B.S. in Computer Science and Technology, Xi'an University of Scinence and Technology, 2022
-* M.S. in Astrophysics, Shanghai Astronomical Observatory, University of Chinese Academy of Sciences, 2025
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.S. in Astrophysics, Shanghai Astronomical Observatory, University of Chinese Academy of Sciences, 2022-
 
-<!-- Work experience
+Collaration
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+2022- COIN: The Cosmostatistics Initiative
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-   -->
-  
-Skills
+Awards
+======
+2022 Outstanding Graduates, by Xi'an University of Science and Technology
+
+
+Coding Skills
+======
+PyTorch, scikit-learn, python, CNN, Vision Transformer
+
+Travel Experience
 ======
 
-* Deep Learning
-  * PyTorch, scikit-learn, python
-  * CNN, Vision Transformer
-  * Clustering
-  * Contrasivie learning
-  * Domain adaptation
-  * Interprebility
-  * Uncertainty
+* Schools 
+  * July 2022 Participant: CSST Galaxy Scientific Summer Program
+
+Research Projects
+======
+* Principal Investigator
+Detail morphology classification by deep learning (ongoing)
+In order to present the future CSST, Euclid, and other large survey telescope, I explore the deep learning method for classifying detailed morphology of DESI Legacy Imaging Survey Bright Galaxy Sample.
+
+* Co-investigator
+  * Missing Data Imputation via GAN
+We present a model based on GAN to impute missing data in astronomical tabulate data.
+
+  * From Images to Features: Unbiased Morphology Classification via VAE and DA
+We present a VAE and domain adaptation (DA), which can be applied to dimensionality reduction, defect image identification, and morphology classification in large optical surveys.
+
+Outreach
+======
+Astronomical Society of the University of Chinese Academy of Sciences
+Head of the Observation Department(2022-2023), Chief Maintainer of the 70cm telescope(2022-2023)
+
+Shanghai Astronomical Observatory Technical Innovation Workstation
+Leader (2023) of Group Hubble’s Law
+– Teaching high school student the background and usage of Hubble’s Law
+
 * Astronomy
   * Observation knowledge
   * Telescope Optics and Telescope Terminal
@@ -48,6 +68,10 @@ Skills
   * Landscape photograph
 * Chinese painting
 * Badminton
+
+Reference
+======
+Shiyin Shen Shanghai Astronomical Observatory, CAS
 
 Publications
 ======
