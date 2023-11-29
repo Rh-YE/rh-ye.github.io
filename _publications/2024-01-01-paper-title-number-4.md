@@ -1,32 +1,24 @@
 ---
-title: "Constraints on Triton atmospheric evolution from occultations: 1989-2022"
+title: "From DECaLS to BASS+MzLS: Galaxy Morphological Classification with unsupervised domain adaption"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: /publication/2024-01-01-paper-title-number-4
+excerpt: 'The morphological classification of galaxies plays a important role in our understanding of galaxy formation and evolution.
+We present a catalog of detailed morphology classification in the DESI BASS+MzLS footprint of 214,600 galaxies (with
+𝑧 < 0.15 and 𝑚𝑟 < 17.77). Leveraging a Bayesian CNN initially trained on Galaxy Zoo DECaLS labels, we successfully
+adapted our model for the BASS+MzLS footprint through source-free unsupervised domain adaptation without collecting
+new labels. This domain adaptation addresses the covariate shift between the DECaLS and BASS, MzLS datasets due to the
+different survey parameters. Our model can predict the posterior of each question-answer pair in the GZD-5 decision tree that
+is related to morphology. Benchmarking against previous methodologies, our approach demonstrates superior performance,
+particularly in effectively handling domain adaptation verified through the overlapping footprints of DECaLS and BASS+MzLS.
+Our code, along with the detailed morphological classifications for a total of 214,600 galaxies, is publicly accessible.'
+date: 2024-01-01
+venue: 'MNRAS?'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Renhao Ye. (2024). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Context. Around the year 2000, Triton’s south pole experienced an extreme summer solstice that occurs every ∼650 years, when the subsolar
-latitude reached about 50◦S. Bracketing this epoch, a few occultations probed Triton’s atmosphere in 1989, 1995, 1997, 2008 and 2017. A recent
-ground-based stellar occultation observed on 6 October 2022 provides a new measurement of Triton’s atmospheric pressure which is presented
-here.
 
-Aims. The goal is to constrain the Volatile Transport Models (VTMs) of Triton’s atmosphere that is basically in vapor pressure equilibrium with
-the nitrogen ice at its surface.
-Methods. Fits to the occultation light curves yield Triton’s atmospheric pressure at the reference radius 1400 km, from which the surface pressure
-is induced.
-
-Results. The fits provide a pressure p1400 = 1.211 ± 0.044 μbar at radius1400 km (47-km altitude), from which a surface pressure of psurf =
-14.54 ± 0.53 μbar is induced (1σ error bars). To within error bars, this is identical to the pressure derived from the previous occultation of 5
-October 2017, p1400 = 1.18 ± 0.03 μbar and psurf = 14.1 ± 0.4 μbar, respectively. Based on recent models of Triton’s volatile cycles, the overall
-evolution over the last 30 years of the surface pressure is consistent with N2 condensation taking place in the northern hemisphere. However,
-models typically predict a steady decrease in surface pressure for the period 2005-2060, which is not confirmed by this observation. Complex
-surface-atmosphere interactions, such as ice albedo runaway and formation of local N2 frosts in the equatorial regions of Triton could explain the
-relatively constant pressure between 2017 and 2022
 
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: B. Sicardy. (2023). "Constraints on Triton atmospheric evolution from occultations: 1989-2022" <i>Astronomy & Astrophysics</i>. 1(1).
+Recommended citation: B. Sicardy. (2023). "From DECaLS to BASS+MzLS: Galaxy Morphological Classification with unsupervised domain adaption" <i>MNRAS</i>. 1(1).
